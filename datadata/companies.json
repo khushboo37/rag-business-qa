@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Acme Manufacturing",
+        "duns": "123-456-789",
+        "profile": "Acme Manufacturing is a global supplier of industrial equipment.",
+        "financials": "Payment score is 82. Debt ratio is 32%. Overall risk is relatively low.",
+        "ownership": "State Registry lists Acme's primary ownership at 45%. However, the 2025 Annual Report claims ownership is 60%.",
+        "compliance": "No active sanctions found."
+    },
+    {
+        "name": "Globex Corporation",
+        "duns": "987-654-321",
+        "profile": "Globex Corporation is an import/export logistics firm.",
+        "financials": "Payment score is 45. Debt ratio is 78%. Overall risk is high.",
+        "ownership": "100% owned by Scorpio Holdings.",
+        "compliance": "WARNING: Entity is currently on a trade watch list."
+    },
+    {
+        "name": "Initech",
+        "duns": "555-444-333",
+        "profile": "Initech produces banking and financial software solutions.",
+        "financials": "Payment score is 95. Debt ratio is 10%.",
+        "ownership": "Publicly traded. Major shareholder owns 80%.",
+        "compliance": "Clear. No sanctions."
+    },
+    {
+        "name": "Umbrella Corp",
+        "duns": "666-777-888",
+        "profile": "Umbrella Corp is a multinational pharmaceutical company.",
+        "financials": "Payment score is 60. Debt ratio is 50%.",
+        "ownership": "51% owned by private equity.",
+        "compliance": "Pending FDA review, but no financial sanctions."
+    },
+    {
+        "name": "Stark Industries",
+        "duns": "111-222-333",
+        "profile": "Stark Industries is a defense and energy contractor.",
+        "financials": "Payment score is 88. Debt ratio is 20%.",
+        "ownership": "90% owned by Tony Stark.",
+        "compliance": "Subject to strict government oversight, no violations."
+    }
+]
