@@ -1,0 +1,6 @@
+COMPANY: Stark Industries
+DUNS NUMBER: 111-222-333
+PROFILE: Stark Industries is a defense and energy contractor.
+FINANCIALS: Payment score is 88. Debt ratio is 20%.
+OWNERSHIP: 90% owned by Tony Stark.
+COMPLIANCE: Subject to strict government oversight, no violations.

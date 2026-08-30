@@ -1,0 +1,6 @@
+COMPANY: Globex Corporation
+DUNS NUMBER: 987-654-321
+PROFILE: Globex Corporation is an import/export logistics firm.
+FINANCIALS: Payment score is 45. Debt ratio is 78%. Overall risk is high.
+OWNERSHIP: 100% owned by Scorpio Holdings.
+COMPLIANCE: WARNING: Entity is currently on a trade watch list.

@@ -1,0 +1,6 @@
+COMPANY: Umbrella Corp
+DUNS NUMBER: 666-777-888
+PROFILE: Umbrella Corp is a multinational pharmaceutical company.
+FINANCIALS: Payment score is 60. Debt ratio is 50%.
+OWNERSHIP: 51% owned by private equity.
+COMPLIANCE: Pending FDA review, but no financial sanctions.

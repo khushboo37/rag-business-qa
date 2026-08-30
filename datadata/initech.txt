@@ -1,0 +1,6 @@
+COMPANY: Initech
+DUNS NUMBER: 555-444-333
+PROFILE: Initech produces banking and financial software solutions.
+FINANCIALS: Payment score is 95. Debt ratio is 10%.
+OWNERSHIP: Publicly traded. Major shareholder owns 80%.
+COMPLIANCE: Clear. No sanctions.
